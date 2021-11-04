@@ -7,5 +7,7 @@ xautolock -time 15 -locker i3lock &
 
 xrdb .Xresources
 
+xrandr --output eDP-1 --primary --mode 3840x2400 --pos 4480x0 --output DP-2 --mode 2560x1440 --pos 0x0 --scale 1.75x1.75
+
 exec i3
 -

@@ -1,10 +1,5 @@
-dhcpcd
-netctl
-dialog
 wpa_supplicant
 openssh
-networkmanager
-network-manager-applet
 xorg-server
 xorg-xinit
 xorg-apps
@@ -30,7 +25,6 @@ intel-ucode
 brightnessctl
 bluez
 bluez-utils
-blueman
 firefox
 lightdm
 lightdm-gtk-greeter
