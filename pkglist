@@ -32,6 +32,7 @@ ttf-liberation
 ttf-dejavu
 i3
 dmenu
+j4-dmenu-desktop
 jdk11-openjdk
 visualvm
 clojure
