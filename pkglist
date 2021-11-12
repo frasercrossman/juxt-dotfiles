@@ -43,3 +43,5 @@ pavucontrol
 gnupg
 keybase
 archlinux-keyring
+#acpilight replaces xorg-xbacklight to work on xps 15
+acpilight
